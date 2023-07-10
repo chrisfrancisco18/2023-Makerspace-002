@@ -61,7 +61,7 @@ function _1 () {
     music.rest(music.beat(BeatFraction.Double))
     helper_1()
 }
-music.setTempo(127)
+music.setTempo(110)
 _1()
 _2()
 _3()
